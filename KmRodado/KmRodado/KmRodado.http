@@ -1,0 +1,6 @@
+@KmRodado_HostAddress = http://localhost:5075
+
+GET {{KmRodado_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
